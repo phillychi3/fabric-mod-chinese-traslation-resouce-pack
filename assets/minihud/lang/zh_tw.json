@@ -5,7 +5,9 @@
     "minihud.gui.button.config_gui.generic": "通用",
     "minihud.gui.button.config_gui.info_toggles": "資訊——功能切換",
     "minihud.gui.button.config_gui.info_line_order": "資訊——數值設定",
+    "minihud.gui.button.config_gui.info_lines": "資訊",
     "minihud.gui.button.config_gui.info_hotkeys": "資訊——快捷鍵",
+    "minihud.gui.button.config_gui.renderer_toggles": "渲染器開關",
     "minihud.gui.button.config_gui.renderer_hotkeys": "渲染器快捷鍵",
     "minihud.gui.button.config_gui.shapes": "圖形",
     "minihud.gui.button.config_gui.structures": "結構",
@@ -45,8 +47,16 @@
     "minihud.gui.title.shape_editor": "形狀編輯",
     "minihud.gui.title.shape_manager": "形狀管理",
 
-    "minihud.label.bee_info.count": "§7包含 §b%s§7 蜜蜂(s)",
+    
+    "minihud.label.bee_tooltip.name": "§7- %s",
+    "minihud.label.bee_tooltip.count_babies": "§7包含 §b%s§7 蜜蜂(s), (§b%s§7 幼蜂)",
+    "minihud.label.bee_tooltip.count": "§7包含 §b%s§7 蜜蜂(s)",
     "minihud.label.bee_info.name": "§7- %s",
+    "minihud.label.bee_info.count": "§7包含 §b%s§7 蜜蜂(s)",
+    "minihud.label.axolotl_tooltip.label": "§7品種: ",
+    "minihud.label.axolotl_tooltip.value": "%s [%s]",    
+    
+    "minihud.label.honey_info.level": "§7蜂蜜等級 §b%s§7/5",
 
     "minihud.label.blockgridmode.all": "所有",
     "minihud.label.blockgridmode.non_air": "真空",
@@ -61,6 +71,11 @@
     "minihud.label.light_level_number_mode.both": "兩者",
     "minihud.label.light_level_number_mode.sky": "天空",
 
+    "minihud.label.light_level_render_condition.always": "總是",
+    "minihud.label.light_level_render_condition.dim": "昏暗",
+    "minihud.label.light_level_render_condition.never": "從不",
+    "minihud.label.light_level_render_condition.safe": "安全",
+    "minihud.label.light_level_render_condition.spawnable": "可生成",
     "minihud.label.shape_render_type.full_block": "完整的方塊",
     "minihud.label.shape_render_type.inner_edge": "內部邊框",
     "minihud.label.shape_render_type.outer_edge": "外部邊框",
@@ -70,6 +85,9 @@
     "minihud.label.shapes.circle": "圓環 / 圓柱",
     "minihud.label.shapes.despawn_sphere": "（怪必消失）球面 ( > 128)",
     "minihud.label.shapes.sphere_blocky": "球面 (基於方塊)",
+    "minihud.label.shapes.box": "長方體",
+    "minihud.label.shapes.adjustable_spawn_sphere": "可調節球面",
+    "minihud.label.shapes.block_line": "線 (基於方塊)",
 
     "minihud.hotkeys.category.generic_hotkeys": "通用快捷鍵",
     "minihud.hotkeys.category.info_toggle_hotkeys": "資訊切換快捷鍵",
@@ -92,7 +110,9 @@
     "minihud.message.error.shapes.select_shape_from_dropdown": "從下拉欄中選擇要建立的形狀型別",
 
     "minihud.message.distance_reference_point_set": "設定距離參考點位 %s",
+    "minihud.message.no_seed": "MiniHUD: 未知的種子",
     "minihud.message.seed_set": "MiniHUD: 設定世界種子為 '%s'",
+    "minihud.message.seed_is": " MiniHUD 設定的目前世界種子為 '%s'",
     "minihud.message.spawn_set": "MiniHUD: 設定世界出生點到 %s",
     
     "beeTooltips":"beeTooltips-蜜蜂工具提示",

@@ -1,5 +1,4 @@
 {
-  // 有待確認
   "text.autoconfig.appleskin.title": "AppleSkin",
   "text.autoconfig.appleskin.option.showFoodValuesInTooltip": "在工具欄中顯示食物飽食度",
   "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways": "總是在工具欄中顯示食物飽食度",
@@ -10,5 +9,8 @@
   "text.autoconfig.appleskin.option.showSaturationHudOverlay": "顯示飽食度",
   "text.autoconfig.appleskin.option.showFoodDebugInfo": "在debug視窗顯示食物飽食度",
   "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay": "為hud圖標套用動畫",
-  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha": "hud圖標的最大α值"
+  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha": "hud圖標的最大α值",
+
+  "modmenu.summaryTranslation.appleskin": "增加了各種與食物相關的HUD改進",
+  "modmenu.descriptionTranslation.appleskin": "增加了各種與食物相關的HUD改進"
 }
