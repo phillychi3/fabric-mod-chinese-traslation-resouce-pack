@@ -1,0 +1,24 @@
+name: build resources pack
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: build resources pack
+        run: |
+          zip -r fabric-mod-chinese-traslation-resouce-pack.zip assets/ pack.mcmeta pack.png
+
+      - name: upload
+        uses: ncipollo/release-action@v1.14.0
+        with:
+          allowUpdates: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: latest
+          artifacts: "fabric-mod-chinese-traslation-resouce-pack.zip"
