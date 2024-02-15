@@ -1,6 +1,5 @@
 # fabric-mod-chinese-traslation-resouce-pack
-
-Making traslate for mod<br>
+### Download link: ![點我](https://github.com/phillychi3/fabric-mod-chinese-traslation-resouce-pack/releases/download/latest/fabric-mod-chinese-traslation-resouce-pack.zip)
 
 ##### 目前 zh_tw 有翻譯有
 
@@ -30,7 +29,9 @@ Making traslate for mod<br>
 - modmenu
 - ommc
 - petowner
+- sodium
 - sodium extra
+- syncmatica
 - timetolive
 - tweakeroo + tweakfork
 - waila
@@ -42,7 +43,6 @@ Making traslate for mod<br>
 
 #### forge mod 請去 <https://github.com/whats2000/mod-pack-traditional-chinese-traslation>
 
-註:如果下載自 code 的自動壓縮檔，需要解壓縮一次
 
 # fabric-mod-chinese-traslation-resouce-pack
 
@@ -62,4 +62,3 @@ Making traslate for mod
 
 #### forge mod 請去 <https://github.com/whats2000/mod-pack-traditional-chinese-traslation>
 
-注:如果下载自 code 的自动压缩档，需要解压缩一次
