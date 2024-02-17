@@ -13,7 +13,7 @@ jobs:
 
       - name: build resources pack
         run: |
-          zip -r fabric-mod-chinese-traslation-resouce-pack.zip assets/ pack.mcmeta pack.png
+          zip -r §6TMC§f-traslation-resouce-pack.zip assets/ pack.mcmeta pack.png
 
       - name: upload
         uses: ncipollo/release-action@v1.14.0
@@ -21,4 +21,4 @@ jobs:
           allowUpdates: true
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: latest
-          artifacts: "fabric-mod-chinese-traslation-resouce-pack.zip"
+          artifacts: "§6TMC§f-traslation-resouce-pack.zip"
