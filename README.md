@@ -1,5 +1,5 @@
 # fabric-mod-chinese-traslation-resouce-pack
-### Download link: [點我](https://github.com/phillychi3/fabric-mod-chinese-traslation-resouce-pack/releases/download/latest/§6TMC§f-traslation-resouce-pack.zip)
+### Download link: [點我](https://github.com/phillychi3/fabric-mod-chinese-traslation-resouce-pack/releases/download/latest/TMC-traslation-resouce-pack.zip)
 
 ##### 繁體中文有翻譯有
 
